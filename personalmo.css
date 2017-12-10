@@ -1,0 +1,42 @@
+nav{
+  text-align:center;
+  padding-bottom:0px;
+
+}
+nav ul{
+height:100px;
+  margin:0;
+  padding: 0;
+  list-style:none;
+  background-color:#024aff;
+}
+nav li {
+  display:inline-block;
+  margin-left:25px;
+  Padding-top:75px;
+  Padding-bottom:7px;
+  position: relative;
+}
+nav a {
+  color:#000000;
+  text-align:bottom;
+text-decoration:none;
+text-transform:uppercase;
+  font-size:20px;
+}
+nav a:hover {
+  color:#ff602b;
+}
+.logo{
+font-family:'Francois One', serif;	
+float:right;
+color:#f7e70e;
+padding-right:5px;
+	
+}
+.word{
+color:black;
+font-size:100px;	
+	
+	
+}

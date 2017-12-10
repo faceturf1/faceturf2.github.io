@@ -1,0 +1,80 @@
+*background-color:#c4c4c4;
+.middle{
+	
+}
+*head{
+margin-top:20px;
+float:right;
+padding-right:20px;
+background-image:url=("http://www.tacticalgaming.net/hq/news/wp-content/uploads/2014/12/Playstation-Logo-Font.jpg");
+
+}	
+.logo{
+font-family:'Francois One', serif;	
+float:right;
+color:#f7e70e;
+padding-right:5px;
+	
+}
+
+
+
+.links{
+text-align:center;
+padding-top:5px;	
+}
+.main_content{
+height:10000px;
+}
+.footer{
+	
+}	
+
+
+.whiteback{
+	background-color:white;
+ text-align:center;
+ width:800px;
+}
+nav{
+  text-align:center;
+  padding-bottom:0px;
+
+}
+nav ul{
+height:100px;
+  margin:0;
+  padding: 0;
+  list-style:none;
+  background-color:#024aff;
+}
+nav li {
+  display:inline-block;
+  margin-left:25px;
+  Padding-top:78px;
+  Padding-bottom:7px;
+  position: relative;
+}
+nav a {
+  color:#000000;
+  text-align:bottom;
+text-decoration:none;
+text-transform:uppercase;
+  font-size:20px;
+}
+nav a:hover {
+  color:#ff602b;
+}
+.text1{
+	font-size:25px;
+	padding-top:10px;
+	padding-left:10px;
+	width:1230px;
+	background-image: url("http://wiki.brawlhalla.com/images/1/17/GrumpyTemple.jpg");
+	background-size:contain;
+	background-repeat: no-repeat;
+	margin-left:5px;
+	margin-top:10px;
+	margin-bottom:10px;
+	height:800px;
+}
